@@ -20,7 +20,7 @@ WiseTrap is a security-focused project developed to simulate real login environm
 
 It is designed as a **web-based credential honeypot** that mimics a normal login panel, logs user activity such as IP address, timestamp, and login attempts, and presents fake data after authentication.
 
-This project was created as part of a graduation project at **WISE University**.
+This project was created as part of a graduation project at [WISE University](https://www.wise.edu.jo/?WiseTrap).
 
 ---
 

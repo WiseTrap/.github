@@ -86,8 +86,8 @@ It is useful for:
 
 Detailed installation instructions are available below:
 
-- [Linux / Ubuntu Setup](../Setup/Setup-Linux.md?raw=true)
-- [Windows Setup](../Setup/Setup-Windows.md?raw=true)
+- [Linux / Ubuntu Setup](https://github.com/WiseTrap/honeypot/blob/main/Setup/Setup-Linux.md)
+- [Windows Setup](https://github.com/WiseTrap/honeypot/blob/main/Setup/Setup-Windows.md)
 
 The guides include:
 

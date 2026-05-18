@@ -84,18 +84,19 @@ It is useful for:
 
 ## Installation
 
-Detailed installation instructions are available in:
+Detailed installation instructions are available below:
 
-- [Setup Guide](https://github.com/WiseTrap/honeypot/blob/main/setup.md)
+- [Linux / Ubuntu Setup](Setup/Setup-Linux.md?raw=true)
+- [Windows Setup](Setup/Setup-Windows.md?raw=true)
 
-The setup guide includes:
+The guides include:
 
-- Ubuntu server installation
-- Apache configuration
-- PHP and MySQL setup
-- Database configuration
+- Web server configuration
+- PHP installation
+- Database setup
 - File permissions
-- Honeypot deployment steps
+- Deployment steps
+- Environment configuration
 
 ## Security Notes
 

@@ -86,8 +86,8 @@ It is useful for:
 
 Detailed installation instructions are available below:
 
-- [Linux / Ubuntu Setup](Setup/Setup-Linux.md?raw=true)
-- [Windows Setup](Setup/Setup-Windows.md?raw=true)
+- [Linux / Ubuntu Setup](../Setup/Setup-Linux.md?raw=true)
+- [Windows Setup](../Setup/Setup-Windows.md?raw=true)
 
 The guides include:
 

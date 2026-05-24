@@ -28,7 +28,7 @@ This project was created as part of a graduation project at [WISE University](ht
 
 We’d love to hear your thoughts about WiseTrap. Your feedback helps us improve the project, prioritize new features, and build a better cybersecurity research platform for everyone.
 
-[Take the Survey](forms.gle/6KZ9RymiL6DfqeP39)
+[Take the Survey](https://forms.gle/6KZ9RymiL6DfqeP39)
 
 ---
 ## Features
